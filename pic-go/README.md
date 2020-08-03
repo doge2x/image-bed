@@ -1,0 +1,1 @@
+It's where pic-go upload to.
